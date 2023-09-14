@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, welcome to my github
 
 <!--
 **Blondie-TheManWithNoName/Blondie-TheManWithNoName** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
