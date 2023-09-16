@@ -1,6 +1,6 @@
 # HELLO THERE WELCOME TO MY GITHUB 
 <br></br>
-Here you will find projects I've been doing as a Computer Engineering Student
+##Here you will find projects I've been doing as a Computer Engineering Student
 
 <!--
 **Blondie-TheManWithNoName/Blondie-TheManWithNoName** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
