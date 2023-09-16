@@ -1,5 +1,4 @@
 # HELLO THERE WELCOME TO MY GITHUB 
-<br></br>
 ## Here you will find projects I've been doing as a Computer Engineering Student
 
 <!--
