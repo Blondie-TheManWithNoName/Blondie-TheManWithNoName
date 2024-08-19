@@ -1,6 +1,7 @@
 # HELLO THERE WELCOME TO MY GITHUB 
 ## Here you will find projects I've done as a Computer Engineering Student
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Blondie-TheManWithNoName/Blondie-TheManWithNoName** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
