@@ -1,7 +1,7 @@
 # HELLO THERE WELCOME TO MY GITHUB 
 ## Here you will find projects I've done as a Computer Engineering Student
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blondie-TheManWithNoName&layout=donut)](https://github.com/Blondie-TheManWithNoName)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blondie-TheManWithNoName&layout=donut&theme=dracula&hide_border=true&hide_title=true&border_radius=10&include_all_commits=true)](https://github.com/Blondie-TheManWithNoName)
 <!--
 **Blondie-TheManWithNoName/Blondie-TheManWithNoName** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
