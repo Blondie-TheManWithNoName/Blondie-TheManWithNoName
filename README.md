@@ -1,5 +1,9 @@
 # HELLO THERE WELCOME TO MY GITHUB 
-## Here you will find projects I've done as a Computer Engineering Student
+## Here you will find my work
+
+ <img src="https://komarev.com/ghpvc/?username=Blondie-TheManWithNoName&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+<img src="https://img.shields.io/badge/Languages-TypeScript | JavaScript | HTML5 | CSS3 | Java | C++ -green.svg" alt="Noah's Languages" />
+<img src="https://img.shields.io/badge/Frameworks-NextJS | NestJS -green.svg" alt="Noah's Frameworks" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blondie-TheManWithNoName&layout=donut&theme=dracula&hide_border=true&hide_title=true&border_radius=10&include_all_commits=true)](https://github.com/Blondie-TheManWithNoName)
 <!--
